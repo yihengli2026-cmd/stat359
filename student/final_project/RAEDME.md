@@ -1,4 +1,4 @@
-# TinyStories Persona Patching (Pirate Style)
+# Style Shift via Pirate Patch Fine-Tuning
 
 This repository contains our final project for an LLM course. We study whether a small instruction-tuned TinyStories chat model can be patched into a stable pirate persona using targeted continued fine-tuning, and whether that style persists under different prompting conditions.
 
