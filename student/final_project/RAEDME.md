@@ -259,7 +259,9 @@ Output: `pirate_refs.txt`
 Run `python train_pirate_bert.py`.
 
 Purpose: This script trains a binary text classifier on `datasets/combined_pirate_dataset.json`.
+
 Output: 
+
 Bert Classifier Model:
 - `best_model.pt`
 - `tokenizer_config.json`
@@ -268,7 +270,9 @@ Bert Classifier Model:
 ### Step 8: Compute Bert Probability Score/Plot BERT classifier results
 
 Run `python score_bert.py`.
+
 Purpose: This script loads the trained BERT classifier and applies it to generated responses.
+
 Output:
 -`bert_base_scored.json`
 -`bert_pirate_scored.json`
