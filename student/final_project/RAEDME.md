@@ -166,18 +166,13 @@ A normal workflow is:
 
 ## Quick Start
 
-If you want the main end-to-end workflow, run these commands in order:
+What our scripts do:
 
-- `python prompt_tests.py`
-- `python cosine_style_score.py`
-- `python analyze_cosine.py`
-- `python plot_cosine.py`
-- `python train_pirate_bert.py`
-- `python score_bert.py`
-- `python plot_bert.py`
-
-What this does:
-
+- `make_pirate_patch.py`
+- `extract_pirate_refs.py`
+- `analyze_scores.py`
+- `generate_tinystories_text.py`
+- 
 - `prompt_tests.py` generates model responses for all stress-test prompts
 - `cosine_style_score.py` measures how close those responses are to pirate reference text
 - `analyze_cosine.py` summarizes the cosine results
