@@ -269,19 +269,16 @@ Bert Classifier Model:
 
 ### Step 8: Compute Bert Probability Score/Plot BERT classifier results
 
--Run `python score_bert.py`.
-
+Run `python score_bert.py`.
   - Purpose: This script loads the trained BERT classifier and applies it to generated responses.
-
   - Output: `bert_base_scored.json` and `bert_pirate_scored.json`
 
--Run `python plot_bert.py`.
-
- - Purpose: This script visualizes classifier-based style results.
- - Output: 
-   - `bert_bar_clean.png`
-  - `bert_box.png`
-  - `bert_hist.pg`
+Run `python plot_bert.py`.
+  - Purpose: This script visualizes classifier-based style results.
+  - Output: 
+    - `bert_bar_clean.png`
+    - `bert_box.png`
+    - `bert_hist.pg`
 
 
 
