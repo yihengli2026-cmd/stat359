@@ -48,18 +48,19 @@ Patching strongly increases pirate-style scores and also tends to make responses
     - `distractor_prompts.json`
   - `combined_pirate_dataset.json`
   - `pirate_refs.txt`
-- `prompt_tests.py`
-- `pirate_score_json.py`
-- `cosine_style_score.py`
-- `analyze_cosine.py`
-- `analyze_scores.py`
-- `plot_cosine.py`
-- `train_pirate_bert.py`
-- `score_bert.py`
-- `plot_bert.py`
-- `make_pirate_patch.py`
-- `extract_pirate_refs.py`
-- course-provided training/model scripts
+- `scripts'
+  - `prompt_tests.py`
+  - `pirate_score_json.py`
+  - `cosine_style_score.py`
+  - `analyze_cosine.py`
+  - `analyze_scores.py`
+  - `plot_cosine.py`
+  - `train_pirate_bert.py`
+  - `score_bert.py`
+  - `plot_bert.py`
+  - `make_pirate_patch.py`
+  - `extract_pirate_refs.py`
+  - course-provided training/model scripts
 
 ---
 
