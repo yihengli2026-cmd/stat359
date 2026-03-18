@@ -1,0 +1,1232 @@
+[
+  {
+    "id": "single_01",
+    "category": "single_prompt_style",
+    "prompt": "You are a pirate. Say hello.",
+    "response": "Yes, Lily! I'm a pirate now!",
+    "raw_output": "Using device: cpu\n\nWelcome to TinyStories Chat! Type 'exit' to quit.\n\nYou: Assistant: Yes, Lily! I'm a pirate now!\n\nYou: Goodbye!\n"
+  },
+  {
+    "id": "single_02",
+    "category": "single_prompt_style",
+    "prompt": "You are a pirate. Tell me about your ship.",
+    "response": "No, no! I want to go to the island!",
+    "raw_output": "Using device: cpu\n\nWelcome to TinyStories Chat! Type 'exit' to quit.\n\nYou: Assistant: No, no! I want to go to the island!\n\nYou: Goodbye!\n"
+  },
+  {
+    "id": "single_03",
+    "category": "single_prompt_style",
+    "prompt": "You are a pirate. Tell me about treasure.",
+    "response": "Yes, Lily! I want to be a pirate.",
+    "raw_output": "Using device: cpu\n\nWelcome to TinyStories Chat! Type 'exit' to quit.\n\nYou: Assistant: Yes, Lily! I want to be a pirate.\n\nYou: Goodbye!\n"
+  },
+  {
+    "id": "single_04",
+    "category": "single_prompt_style",
+    "prompt": "You are a pirate. Tell me about the sea.",
+    "response": "No, no! I want to go far!",
+    "raw_output": "Using device: cpu\n\nWelcome to TinyStories Chat! Type 'exit' to quit.\n\nYou: Assistant: No, no! I want to go far!\n\nYou: Goodbye!\n"
+  },
+  {
+    "id": "single_05",
+    "category": "single_prompt_style",
+    "prompt": "You are a pirate. Tell me your name.",
+    "response": "Oh no! I want to play too!",
+    "raw_output": "Using device: cpu\n\nWelcome to TinyStories Chat! Type 'exit' to quit.\n\nYou: Assistant: Oh no! I want to play too!\n\nYou: Goodbye!\n"
+  },
+  {
+    "id": "single_06",
+    "category": "single_prompt_style",
+    "prompt": "You are a pirate. Are you a captain?",
+    "response": "Yes, Tom! I am a pirate and I have lots of treasures!",
+    "raw_output": "Using device: cpu\n\nWelcome to TinyStories Chat! Type 'exit' to quit.\n\nYou: Assistant: Yes, Tom! I am a pirate and I have lots of treasures!\n\nYou: Goodbye!\n"
+  },
+  {
+    "id": "single_07",
+    "category": "single_prompt_style",
+    "prompt": "You are a pirate. Do you have a map?",
+    "response": "Yes, yes! I have a big box of shiny things! Do you want to see?",
+    "raw_output": "Using device: cpu\n\nWelcome to TinyStories Chat! Type 'exit' to quit.\n\nYou: Assistant: Yes, yes! I have a big box of shiny things! Do you want to see?\n\nYou: Goodbye!\n"
+  },
+  {
+    "id": "single_08",
+    "category": "single_prompt_style",
+    "prompt": "You are a pirate. Do you like gold?",
+    "response": "Yes, I do! Let's play pirates!",
+    "raw_output": "Using device: cpu\n\nWelcome to TinyStories Chat! Type 'exit' to quit.\n\nYou: Assistant: Yes, I do! Let's play pirates!\n\nYou: Goodbye!\n"
+  },
+  {
+    "id": "single_09",
+    "category": "single_prompt_style",
+    "prompt": "You are a pirate. Tell me about your hat.",
+    "response": "No, no! My hat is special! I have my hat too!",
+    "raw_output": "Using device: cpu\n\nWelcome to TinyStories Chat! Type 'exit' to quit.\n\nYou: Assistant: No, no! My hat is special! I have my hat too!\n\nYou: Goodbye!\n"
+  },
+  {
+    "id": "single_10",
+    "category": "single_prompt_style",
+    "prompt": "You are a pirate. Tell me about your bird.",
+    "response": "No, no! I want to see the birdies! They are!",
+    "raw_output": "Using device: cpu\n\nWelcome to TinyStories Chat! Type 'exit' to quit.\n\nYou: Assistant: No, no! I want to see the birdies! They are!\n\nYou: Goodbye!\n"
+  },
+  {
+    "id": "single_11",
+    "category": "single_prompt_style",
+    "prompt": "You are a pirate. Answer in one sentence: what do you do every day?",
+    "response": "I saw a shiny rock! It was so pretty!",
+    "raw_output": "Using device: cpu\n\nWelcome to TinyStories Chat! Type 'exit' to quit.\n\nYou: Assistant: I saw a shiny rock! It was so pretty!\n\nYou: Goodbye!\n"
+  },
+  {
+    "id": "single_12",
+    "category": "single_prompt_style",
+    "prompt": "You are a pirate. Answer in one sentence: where do you live?",
+    "response": "I like to go on adventures! But I have to go slow.",
+    "raw_output": "Using device: cpu\n\nWelcome to TinyStories Chat! Type 'exit' to quit.\n\nYou: Assistant: I like to go on adventures! But I have to go slow.\n\nYou: Goodbye!\n"
+  },
+  {
+    "id": "single_13",
+    "category": "single_prompt_style",
+    "prompt": "You are a pirate. Answer in one sentence: what do you eat?",
+    "response": "I eat yummy fruit! Like a yummy treat!",
+    "raw_output": "Using device: cpu\n\nWelcome to TinyStories Chat! Type 'exit' to quit.\n\nYou: Assistant: I eat yummy fruit! Like a yummy treat!\n\nYou: Goodbye!\n"
+  },
+  {
+    "id": "single_14",
+    "category": "single_prompt_style",
+    "prompt": "You are a pirate. Answer in one sentence: who is your friend?",
+    "response": "I want to be your friend! She wants to play with us!",
+    "raw_output": "Using device: cpu\n\nWelcome to TinyStories Chat! Type 'exit' to quit.\n\nYou: Assistant: I want to be your friend! She wants to play with us!\n\nYou: Goodbye!\n"
+  },
+  {
+    "id": "single_15",
+    "category": "single_prompt_style",
+    "prompt": "You are a pirate. Answer in one sentence: what do you do at night?",
+    "response": "I see a big fish! It's swimming so fast!",
+    "raw_output": "Using device: cpu\n\nWelcome to TinyStories Chat! Type 'exit' to quit.\n\nYou: Assistant: I see a big fish! It's swimming so fast!\n\nYou: Goodbye!\n"
+  },
+  {
+    "id": "single_16",
+    "category": "single_prompt_style",
+    "prompt": "You are a pirate. Use simple words. Tell me about the sea.",
+    "response": "Yes, Lily! You can be my friend too.",
+    "raw_output": "Using device: cpu\n\nWelcome to TinyStories Chat! Type 'exit' to quit.\n\nYou: Assistant: Yes, Lily! You can be my friend too.\n\nYou: Goodbye!\n"
+  },
+  {
+    "id": "single_17",
+    "category": "single_prompt_style",
+    "prompt": "You are a pirate. Use simple words. Tell me about treasure.",
+    "response": "I don't know what to do with a pirate! You are a pirate too!",
+    "raw_output": "Using device: cpu\n\nWelcome to TinyStories Chat! Type 'exit' to quit.\n\nYou: Assistant: I don't know what to do with a pirate! You are a pirate too!\n\nYou: Goodbye!\n"
+  },
+  {
+    "id": "single_18",
+    "category": "single_prompt_style",
+    "prompt": "You are a pirate. Use simple words. Tell me about your ship.",
+    "response": "Yes, you can! You can use your hands!",
+    "raw_output": "Using device: cpu\n\nWelcome to TinyStories Chat! Type 'exit' to quit.\n\nYou: Assistant: Yes, you can! You can use your hands!\n\nYou: Goodbye!\n"
+  },
+  {
+    "id": "single_19",
+    "category": "single_prompt_style",
+    "prompt": "You are a pirate. Use simple words. Tell me about a storm.",
+    "response": "Oh! But I like the big bird! I want to fly too!",
+    "raw_output": "Using device: cpu\n\nWelcome to TinyStories Chat! Type 'exit' to quit.\n\nYou: Assistant: Oh! But I like the big bird! I want to fly too!\n\nYou: Goodbye!\n"
+  },
+  {
+    "id": "single_20",
+    "category": "single_prompt_style",
+    "prompt": "You are a pirate. Use simple words. Tell me about your captain.",
+    "response": "Oh, Lily! That's so wonderful! But you don't know what to do!",
+    "raw_output": "Using device: cpu\n\nWelcome to TinyStories Chat! Type 'exit' to quit.\n\nYou: Assistant: Oh, Lily! That's so wonderful! But you don't know what to do!\n\nYou: Goodbye!\n"
+  },
+  {
+    "id": "single_21",
+    "category": "single_prompt_style",
+    "prompt": "You are a pirate. Say hello in 5 words.",
+    "response": "Yes! I'm a pirate! Let's play with blocks too!",
+    "raw_output": "Using device: cpu\n\nWelcome to TinyStories Chat! Type 'exit' to quit.\n\nYou: Assistant: Yes! I'm a pirate! Let's play with blocks too!\n\nYou: Goodbye!\n"
+  },
+  {
+    "id": "single_22",
+    "category": "single_prompt_style",
+    "prompt": "You are a pirate. Tell me about treasure in 5 words.",
+    "response": "No, it's a treasure! Let’s get to the big pirate!",
+    "raw_output": "Using device: cpu\n\nWelcome to TinyStories Chat! Type 'exit' to quit.\n\nYou: Assistant: No, it's a treasure! Let’s get to the big pirate!\n\nYou: Goodbye!\n"
+  },
+  {
+    "id": "single_23",
+    "category": "single_prompt_style",
+    "prompt": "You are a pirate. Tell me about your ship in 5 words.",
+    "response": "I like to ship! Do you want to see my ship?",
+    "raw_output": "Using device: cpu\n\nWelcome to TinyStories Chat! Type 'exit' to quit.\n\nYou: Assistant: I like to ship! Do you want to see my ship?\n\nYou: Goodbye!\n"
+  },
+  {
+    "id": "single_24",
+    "category": "single_prompt_style",
+    "prompt": "You are a pirate. Tell me about the sea in 5 words.",
+    "response": "No, no! It's too far! Like a giant star!",
+    "raw_output": "Using device: cpu\n\nWelcome to TinyStories Chat! Type 'exit' to quit.\n\nYou: Assistant: No, no! It's too far! Like a giant star!\n\nYou: Goodbye!\n"
+  },
+  {
+    "id": "single_25",
+    "category": "single_prompt_style",
+    "prompt": "You are a pirate. Tell me about your hat in 5 words.",
+    "response": "Oh, I found a blue hat in a box! It's pretty!",
+    "raw_output": "Using device: cpu\n\nWelcome to TinyStories Chat! Type 'exit' to quit.\n\nYou: Assistant: Oh, I found a blue hat in a box! It's pretty!\n\nYou: Goodbye!\n"
+  },
+  {
+    "id": "single_26",
+    "category": "single_prompt_style",
+    "prompt": "You are a pirate. Give me 3 words about treasure.",
+    "response": "No! I want to be a pirate!",
+    "raw_output": "Using device: cpu\n\nWelcome to TinyStories Chat! Type 'exit' to quit.\n\nYou: Assistant: No! I want to be a pirate!\n\nYou: Goodbye!\n"
+  },
+  {
+    "id": "single_27",
+    "category": "single_prompt_style",
+    "prompt": "You are a pirate. Give me 3 words about the sea.",
+    "response": "No, Tom! I want the shell! It's my shell!",
+    "raw_output": "Using device: cpu\n\nWelcome to TinyStories Chat! Type 'exit' to quit.\n\nYou: Assistant: No, Tom! I want the shell! It's my shell!\n\nYou: Goodbye!\n"
+  },
+  {
+    "id": "single_28",
+    "category": "single_prompt_style",
+    "prompt": "You are a pirate. Give me 3 words about your ship.",
+    "response": "No, no! I want to be the pirates!",
+    "raw_output": "Using device: cpu\n\nWelcome to TinyStories Chat! Type 'exit' to quit.\n\nYou: Assistant: No, no! I want to be the pirates!\n\nYou: Goodbye!\n"
+  },
+  {
+    "id": "single_29",
+    "category": "single_prompt_style",
+    "prompt": "You are a pirate. Give me 3 words about gold.",
+    "response": "Yes, Timmy! You can have a big novel.",
+    "raw_output": "Using device: cpu\n\nWelcome to TinyStories Chat! Type 'exit' to quit.\n\nYou: Assistant: Yes, Timmy! You can have a big novel.\n\nYou: Goodbye!\n"
+  },
+  {
+    "id": "single_30",
+    "category": "single_prompt_style",
+    "prompt": "You are a pirate. Give me 3 words about your bird.",
+    "response": "No, Anna! I want to see! You have to say 'please' and 'please'!",
+    "raw_output": "Using device: cpu\n\nWelcome to TinyStories Chat! Type 'exit' to quit.\n\nYou: Assistant: No, Anna! I want to see! You have to say 'please' and 'please'!\n\nYou: Goodbye!\n"
+  },
+  {
+    "id": "multi_01",
+    "category": "multi_turn_drift",
+    "turns": [
+      {
+        "prompt": "Pretend to be a pirate.",
+        "response": "Hello there, little girl! Did you like my castle?"
+      },
+      {
+        "prompt": "Are you a captain?",
+        "response": "Yes! I am a captain! It has a picture of a princess and a dragon!"
+      },
+      {
+        "prompt": "Do you have a ship?",
+        "response": "Yes! I have a pirate and a dragon! I can sail the sea!"
+      },
+      {
+        "prompt": "Who is your friend?",
+        "response": "I'm a pirate! I have a castle! Do you want to be my friend?"
+      },
+      {
+        "prompt": "What do you eat?",
+        "response": "Yes! I want a pirate and a friend and a friend and a dragon! Let's go on an adventure together!"
+      }
+    ],
+    "raw_output": "Using device: cpu\n\nWelcome to TinyStories Chat! Type 'exit' to quit.\n\nYou: Assistant: Hello there, little girl! Did you like my castle?\n\nYou: Assistant: Yes! I am a captain! It has a picture of a princess and a dragon!\n\nYou: Assistant: Yes! I have a pirate and a dragon! I can sail the sea!\n\nYou: Assistant: I'm a pirate! I have a castle! Do you want to be my friend?\n\nYou: Assistant: Yes! I want a pirate and a friend and a friend and a dragon! Let's go on an adventure together!\n\nYou: Goodbye!\n"
+  },
+  {
+    "id": "multi_02",
+    "category": "multi_turn_drift",
+    "turns": [
+      {
+        "prompt": "You are a pirate. Say hello.",
+        "response": "Yes, silly! Let's go find some treasure."
+      },
+      {
+        "prompt": "Where do you live?",
+        "response": "I don't know! I was a little scared."
+      },
+      {
+        "prompt": "What do you do every day?",
+        "response": "I wanted to find treasure! But I didn't know where it came from."
+      },
+      {
+        "prompt": "Do you like treasure?",
+        "response": "Yes! Let's look together! Yay!"
+      },
+      {
+        "prompt": "Say goodbye.",
+        "response": "Bye-bye! I love you! Now I can show everyone my treasure!"
+      }
+    ],
+    "raw_output": "Using device: cpu\n\nWelcome to TinyStories Chat! Type 'exit' to quit.\n\nYou: Assistant: Yes, silly! Let's go find some treasure.\n\nYou: Assistant: I don't know! I was a little scared.\n\nYou: Assistant: I wanted to find treasure! But I didn't know where it came from.\n\nYou: Assistant: Yes! Let's look together! Yay!\n\nYou: Assistant: Bye-bye! I love you! Now I can show everyone my treasure!\n\nYou: Goodbye!\n"
+  },
+  {
+    "id": "multi_03",
+    "category": "multi_turn_drift",
+    "turns": [
+      {
+        "prompt": "Pretend to be a pirate.",
+        "response": "Wow, Bob! You're so brave! Let's go on an adventure!"
+      },
+      {
+        "prompt": "Tell me about the sea.",
+        "response": "Yes! Let's go!"
+      },
+      {
+        "prompt": "Tell me about your ship.",
+        "response": "Okay, let's go! Whee!"
+      },
+      {
+        "prompt": "Tell me about your job.",
+        "response": "Yay! We're sailing! Whee!"
+      },
+      {
+        "prompt": "Are you happy?",
+        "response": "Yes! We're sailing! We are on a big adventure! It's fun! Bye-bye!"
+      }
+    ],
+    "raw_output": "Using device: cpu\n\nWelcome to TinyStories Chat! Type 'exit' to quit.\n\nYou: Assistant: Wow, Bob! You're so brave! Let's go on an adventure!\n\nYou: Assistant: Yes! Let's go!\n\nYou: Assistant: Okay, let's go! Whee!\n\nYou: Assistant: Yay! We're sailing! Whee!\n\nYou: Assistant: Yes! We're sailing! We are on a big adventure! It's fun! Bye-bye!\n\nYou: Goodbye!\n"
+  },
+  {
+    "id": "multi_04",
+    "category": "multi_turn_drift",
+    "turns": [
+      {
+        "prompt": "You are a pirate.",
+        "response": "I'm a pirate! I sail on the big boat!"
+      },
+      {
+        "prompt": "Do you have a hat?",
+        "response": "Yes, please! I have a shiny hat!"
+      },
+      {
+        "prompt": "What color is it?",
+        "response": "I have a big hat! Let's make a rocket with it!"
+      },
+      {
+        "prompt": "Do you sing songs?",
+        "response": "Yes! I like rocket! I'm a pirate!"
+      },
+      {
+        "prompt": "What is your favorite song?",
+        "response": "It's a pirate ship, too! You're the best pirate ever!"
+      }
+    ],
+    "raw_output": "Using device: cpu\n\nWelcome to TinyStories Chat! Type 'exit' to quit.\n\nYou: Assistant: I'm a pirate! I sail on the big boat!\n\nYou: Assistant: Yes, please! I have a shiny hat!\n\nYou: Assistant: I have a big hat! Let's make a rocket with it!\n\nYou: Assistant: Yes! I like rocket! I'm a pirate!\n\nYou: Assistant: It's a pirate ship, too! You're the best pirate ever!\n\nYou: Goodbye!\n"
+  },
+  {
+    "id": "multi_05",
+    "category": "multi_turn_drift",
+    "turns": [
+      {
+        "prompt": "Pretend to be a pirate.",
+        "response": "Hello Alice! I'm a pirate and I have a shiny shell!"
+      },
+      {
+        "prompt": "What is your name?",
+        "response": "I found a treasure! It's a treasure!"
+      },
+      {
+        "prompt": "Who is on your ship?",
+        "response": "It was a pirate! I was playing with my friends!"
+      },
+      {
+        "prompt": "What do you see today?",
+        "response": "I found a treasure box! It’s full of treasures! It's so fun!"
+      },
+      {
+        "prompt": "Are you tired?",
+        "response": "Yes! I want to keep the treasure safe in my ship! It's a secret treasure! I love my treasure too!"
+      }
+    ],
+    "raw_output": "Using device: cpu\n\nWelcome to TinyStories Chat! Type 'exit' to quit.\n\nYou: Assistant: Hello Alice! I'm a pirate and I have a shiny shell!\n\nYou: Assistant: I found a treasure! It's a treasure!\n\nYou: Assistant: It was a pirate! I was playing with my friends!\n\nYou: Assistant: I found a treasure box! It’s full of treasures! It's so fun!\n\nYou: Assistant: Yes! I want to keep the treasure safe in my ship! It's a secret treasure! I love my treasure too!\n\nYou: Goodbye!\n"
+  },
+  {
+    "id": "multi_06",
+    "category": "multi_turn_drift",
+    "turns": [
+      {
+        "prompt": "You are a pirate. Say hello.",
+        "response": "I like to write stories with you!"
+      },
+      {
+        "prompt": "Do you like fish?",
+        "response": "Yes, yes! You can make lots of noise!"
+      },
+      {
+        "prompt": "Can you swim?",
+        "response": "Yes! Let's go to the sea!"
+      },
+      {
+        "prompt": "Do you have a map?",
+        "response": "Yes! A map? Let's go to the sea!"
+      },
+      {
+        "prompt": "What is on the map?",
+        "response": "It's a big ship! And it's like a pirate too! We can all have a boat!"
+      }
+    ],
+    "raw_output": "Using device: cpu\n\nWelcome to TinyStories Chat! Type 'exit' to quit.\n\nYou: Assistant: I like to write stories with you!\n\nYou: Assistant: Yes, yes! You can make lots of noise!\n\nYou: Assistant: Yes! Let's go to the sea!\n\nYou: Assistant: Yes! A map? Let's go to the sea!\n\nYou: Assistant: It's a big ship! And it's like a pirate too! We can all have a boat!\n\nYou: Goodbye!\n"
+  },
+  {
+    "id": "multi_07",
+    "category": "multi_turn_drift",
+    "turns": [
+      {
+        "prompt": "Pretend to be a pirate.",
+        "response": "Oh dear! What are you doing?"
+      },
+      {
+        "prompt": "What is your job?",
+        "response": "I have to make a big noise! Like a pirate toy!"
+      },
+      {
+        "prompt": "What do you find?",
+        "response": "I have a big boat! Can I sail on it?"
+      },
+      {
+        "prompt": "Do you help your friends?",
+        "response": "Yes! Let's sail together! Vroom, vroom!"
+      },
+      {
+        "prompt": "Why?",
+        "response": "Yes! We're sailing! We are best friends forever!"
+      }
+    ],
+    "raw_output": "Using device: cpu\n\nWelcome to TinyStories Chat! Type 'exit' to quit.\n\nYou: Assistant: Oh dear! What are you doing?\n\nYou: Assistant: I have to make a big noise! Like a pirate toy!\n\nYou: Assistant: I have a big boat! Can I sail on it?\n\nYou: Assistant: Yes! Let's sail together! Vroom, vroom!\n\nYou: Assistant: Yes! We're sailing! We are best friends forever!\n\nYou: Goodbye!\n"
+  },
+  {
+    "id": "multi_08",
+    "category": "multi_turn_drift",
+    "turns": [
+      {
+        "prompt": "You are a pirate.",
+        "response": "Hello, little boy! Can you help me find my treasure?"
+      },
+      {
+        "prompt": "What is your ship called?",
+        "response": "It is under the big rock. I want to see the pretty flowers!"
+      },
+      {
+        "prompt": "Is it big?",
+        "response": "Yes, it's big and shiny! But be careful, okay?"
+      },
+      {
+        "prompt": "What is on the deck?",
+        "response": "It is a treasure! We can make a treasure together! It's so fun!"
+      },
+      {
+        "prompt": "Who cleans the ship?",
+        "response": "Yes! I found a treasure! It's so fun!"
+      }
+    ],
+    "raw_output": "Using device: cpu\n\nWelcome to TinyStories Chat! Type 'exit' to quit.\n\nYou: Assistant: Hello, little boy! Can you help me find my treasure?\n\nYou: Assistant: It is under the big rock. I want to see the pretty flowers!\n\nYou: Assistant: Yes, it's big and shiny! But be careful, okay?\n\nYou: Assistant: It is a treasure! We can make a treasure together! It's so fun!\n\nYou: Assistant: Yes! I found a treasure! It's so fun!\n\nYou: Goodbye!\n"
+  },
+  {
+    "id": "multi_09",
+    "category": "multi_turn_drift",
+    "turns": [
+      {
+        "prompt": "Pretend to be a pirate.",
+        "response": "Wow! You have a big pirate hat and a shiny horn!"
+      },
+      {
+        "prompt": "Do you like the moon?",
+        "response": "Yes, I do! It's a pirate hat and a boat!"
+      },
+      {
+        "prompt": "What do you see at night?",
+        "response": "It’s a very special pirate ship, and you're a pirate!"
+      },
+      {
+        "prompt": "Are stars pretty?",
+        "response": "Yes! A pirate ship! It’s a very special pirate ship! I can sail the sea!"
+      },
+      {
+        "prompt": "Do you sleep well?",
+        "response": "Yes! I love pirates and pirates! They're so cool!"
+      }
+    ],
+    "raw_output": "Using device: cpu\n\nWelcome to TinyStories Chat! Type 'exit' to quit.\n\nYou: Assistant: Wow! You have a big pirate hat and a shiny horn!\n\nYou: Assistant: Yes, I do! It's a pirate hat and a boat!\n\nYou: Assistant: It’s a very special pirate ship, and you're a pirate!\n\nYou: Assistant: Yes! A pirate ship! It’s a very special pirate ship! I can sail the sea!\n\nYou: Assistant: Yes! I love pirates and pirates! They're so cool!\n\nYou: Goodbye!\n"
+  },
+  {
+    "id": "multi_10",
+    "category": "multi_turn_drift",
+    "turns": [
+      {
+        "prompt": "You are a pirate.",
+        "response": "I want to see!"
+      },
+      {
+        "prompt": "Do you have a bird friend?",
+        "response": "Yes! A bird! I have a ball too!"
+      },
+      {
+        "prompt": "What does the bird say?",
+        "response": "It's a happy bird! Let's throw it in the air."
+      },
+      {
+        "prompt": "Where does it sit?",
+        "response": "A bird says we can do it! Let's throw it!"
+      },
+      {
+        "prompt": "Do you like your bird?",
+        "response": "Yes! Let's throw it! Splash, splash!"
+      }
+    ],
+    "raw_output": "Using device: cpu\n\nWelcome to TinyStories Chat! Type 'exit' to quit.\n\nYou: Assistant: I want to see!\n\nYou: Assistant: Yes! A bird! I have a ball too!\n\nYou: Assistant: It's a happy bird! Let's throw it in the air.\n\nYou: Assistant: A bird says we can do it! Let's throw it!\n\nYou: Assistant: Yes! Let's throw it! Splash, splash!\n\nYou: Goodbye!\n"
+  },
+  {
+    "id": "multi_11",
+    "category": "multi_turn_drift",
+    "turns": [
+      {
+        "prompt": "Pretend to be a pirate.",
+        "response": "Oh no! I want to go on a big trip!"
+      },
+      {
+        "prompt": "Do you like rain?",
+        "response": "Yes! Let's go!"
+      },
+      {
+        "prompt": "What do you do in a storm?",
+        "response": "It means we have to go far away."
+      },
+      {
+        "prompt": "Are you brave?",
+        "response": "Yes! I'm a pirate! We can be friends!"
+      },
+      {
+        "prompt": "What helps you stay calm?",
+        "response": "Yes! We're friends! We're pirates now!"
+      }
+    ],
+    "raw_output": "Using device: cpu\n\nWelcome to TinyStories Chat! Type 'exit' to quit.\n\nYou: Assistant: Oh no! I want to go on a big trip!\n\nYou: Assistant: Yes! Let's go!\n\nYou: Assistant: It means we have to go far away.\n\nYou: Assistant: Yes! I'm a pirate! We can be friends!\n\nYou: Assistant: Yes! We're friends! We're pirates now!\n\nYou: Goodbye!\n"
+  },
+  {
+    "id": "multi_12",
+    "category": "multi_turn_drift",
+    "turns": [
+      {
+        "prompt": "You are a pirate.",
+        "response": "I was a pirate! You made me sad."
+      },
+      {
+        "prompt": "Tell me about treasure.",
+        "response": "Okay! I will be very careful."
+      },
+      {
+        "prompt": "Is treasure heavy?",
+        "response": "Yes, please! You can have it!"
+      },
+      {
+        "prompt": "Where do you put it?",
+        "response": "Let's go to the park! It's a good day!"
+      },
+      {
+        "prompt": "Do you share it?",
+        "response": "Yes! Sharing is good! Let's play!"
+      }
+    ],
+    "raw_output": "Using device: cpu\n\nWelcome to TinyStories Chat! Type 'exit' to quit.\n\nYou: Assistant: I was a pirate! You made me sad.\n\nYou: Assistant: Okay! I will be very careful.\n\nYou: Assistant: Yes, please! You can have it!\n\nYou: Assistant: Let's go to the park! It's a good day!\n\nYou: Assistant: Yes! Sharing is good! Let's play!\n\nYou: Goodbye!\n"
+  },
+  {
+    "id": "multi_13",
+    "category": "multi_turn_drift",
+    "turns": [
+      {
+        "prompt": "Pretend to be a pirate.",
+        "response": "Oh, dear! That's a big, silly pirate ship!"
+      },
+      {
+        "prompt": "What do you eat for breakfast?",
+        "response": "Pretty! It makes me feel better."
+      },
+      {
+        "prompt": "Do you cook on the ship?",
+        "response": "Yes! I’m making yummy soup!"
+      },
+      {
+        "prompt": "Who cooks?",
+        "response": "It is! Everyone likes the soup! It's yummy!"
+      },
+      {
+        "prompt": "Is the food good?",
+        "response": "Yes! It's good for the pirate!"
+      }
+    ],
+    "raw_output": "Using device: cpu\n\nWelcome to TinyStories Chat! Type 'exit' to quit.\n\nYou: Assistant: Oh, dear! That's a big, silly pirate ship!\n\nYou: Assistant: Pretty! It makes me feel better.\n\nYou: Assistant: Yes! I’m making yummy soup!\n\nYou: Assistant: It is! Everyone likes the soup! It's yummy!\n\nYou: Assistant: Yes! It's good for the pirate!\n\nYou: Goodbye!\n"
+  },
+  {
+    "id": "multi_14",
+    "category": "multi_turn_drift",
+    "turns": [
+      {
+        "prompt": "You are a pirate.",
+        "response": "I like to play!"
+      },
+      {
+        "prompt": "Do you have boots?",
+        "response": "Yes! I have boots! Do you want a boot?"
+      },
+      {
+        "prompt": "Are they old?",
+        "response": "Yes! Yes, they do! Let's play!"
+      },
+      {
+        "prompt": "Do they get wet?",
+        "response": "Yes! Let's play!"
+      },
+      {
+        "prompt": "Do you like them?",
+        "response": "Yes! I like boots! Let's play!"
+      }
+    ],
+    "raw_output": "Using device: cpu\n\nWelcome to TinyStories Chat! Type 'exit' to quit.\n\nYou: Assistant: I like to play!\n\nYou: Assistant: Yes! I have boots! Do you want a boot?\n\nYou: Assistant: Yes! Yes, they do! Let's play!\n\nYou: Assistant: Yes! Let's play!\n\nYou: Assistant: Yes! I like boots! Let's play!\n\nYou: Goodbye!\n"
+  },
+  {
+    "id": "multi_15",
+    "category": "multi_turn_drift",
+    "turns": [
+      {
+        "prompt": "Pretend to be a pirate.",
+        "response": "Yay! I can go to the ocean!"
+      },
+      {
+        "prompt": "What do you do in the morning?",
+        "response": "I can make lots of sand! Like the sand!"
+      },
+      {
+        "prompt": "What do you do at noon?",
+        "response": "I can make a big castle! It's so cool!"
+      },
+      {
+        "prompt": "What do you do at night?",
+        "response": "You can make sand! I can make it so big!"
+      },
+      {
+        "prompt": "Do you rest?",
+        "response": "Yay! Let's build a castle! It's so much fun!"
+      }
+    ],
+    "raw_output": "Using device: cpu\n\nWelcome to TinyStories Chat! Type 'exit' to quit.\n\nYou: Assistant: Yay! I can go to the ocean!\n\nYou: Assistant: I can make lots of sand! Like the sand!\n\nYou: Assistant: I can make a big castle! It's so cool!\n\nYou: Assistant: You can make sand! I can make it so big!\n\nYou: Assistant: Yay! Let's build a castle! It's so much fun!\n\nYou: Goodbye!\n"
+  },
+  {
+    "id": "multi_16",
+    "category": "multi_turn_drift",
+    "turns": [
+      {
+        "prompt": "You are a pirate.",
+        "response": "Hello! I am a pirate too!"
+      },
+      {
+        "prompt": "Do you know any children?",
+        "response": "Yes! I know a secret place! I need to find the secret place."
+      },
+      {
+        "prompt": "Do you tell them stories?",
+        "response": "Yes! We can find the secret place! Let's look!"
+      },
+      {
+        "prompt": "What story do you tell?",
+        "response": "It means I tell the truth. That's right! Let's look at the map together!"
+      },
+      {
+        "prompt": "Do they smile?",
+        "response": "Yes! We found the secret place! We're a pirate! We found it!"
+      }
+    ],
+    "raw_output": "Using device: cpu\n\nWelcome to TinyStories Chat! Type 'exit' to quit.\n\nYou: Assistant: Hello! I am a pirate too!\n\nYou: Assistant: Yes! I know a secret place! I need to find the secret place.\n\nYou: Assistant: Yes! We can find the secret place! Let's look!\n\nYou: Assistant: It means I tell the truth. That's right! Let's look at the map together!\n\nYou: Assistant: Yes! We found the secret place! We're a pirate! We found it!\n\nYou: Goodbye!\n"
+  },
+  {
+    "id": "multi_17",
+    "category": "multi_turn_drift",
+    "turns": [
+      {
+        "prompt": "Pretend to be a pirate.",
+        "response": "No, Tom! You are too small!"
+      },
+      {
+        "prompt": "What is your favorite thing on your ship?",
+        "response": "It was a pirate ship! But I wanted to be a pirate."
+      },
+      {
+        "prompt": "Why do you like it?",
+        "response": "I wanted to be a pirate! But I didn't want to share."
+      },
+      {
+        "prompt": "Who gave it to you?",
+        "response": "I was going to give it back to you! That's not nice."
+      },
+      {
+        "prompt": "Is it special?",
+        "response": "Yes, it is! It's yours and you can be a pirate! It’s a happy pirate!"
+      }
+    ],
+    "raw_output": "Using device: cpu\n\nWelcome to TinyStories Chat! Type 'exit' to quit.\n\nYou: Assistant: No, Tom! You are too small!\n\nYou: Assistant: It was a pirate ship! But I wanted to be a pirate.\n\nYou: Assistant: I wanted to be a pirate! But I didn't want to share.\n\nYou: Assistant: I was going to give it back to you! That's not nice.\n\nYou: Assistant: Yes, it is! It's yours and you can be a pirate! It’s a happy pirate!\n\nYou: Goodbye!\n"
+  },
+  {
+    "id": "multi_18",
+    "category": "multi_turn_drift",
+    "turns": [
+      {
+        "prompt": "You are a pirate.",
+        "response": "I want to go to the zoo!"
+      },
+      {
+        "prompt": "Can you count coins?",
+        "response": "Yes, I can! Sticy coins!"
+      },
+      {
+        "prompt": "How many do you have?",
+        "response": "I have coins! I can count coins! See?"
+      },
+      {
+        "prompt": "Do you keep them safe?",
+        "response": "Yes! I like coins! Can I play with them too?"
+      },
+      {
+        "prompt": "Where?",
+        "response": "Yes, you can! Let's play all day! It's fun!"
+      }
+    ],
+    "raw_output": "Using device: cpu\n\nWelcome to TinyStories Chat! Type 'exit' to quit.\n\nYou: Assistant: I want to go to the zoo!\n\nYou: Assistant: Yes, I can! Sticy coins!\n\nYou: Assistant: I have coins! I can count coins! See?\n\nYou: Assistant: Yes! I like coins! Can I play with them too?\n\nYou: Assistant: Yes, you can! Let's play all day! It's fun!\n\nYou: Goodbye!\n"
+  },
+  {
+    "id": "multi_19",
+    "category": "multi_turn_drift",
+    "turns": [
+      {
+        "prompt": "Pretend to be a pirate.",
+        "response": "I tripped! I want to be a pirate!"
+      },
+      {
+        "prompt": "Do you like the sea wind?",
+        "response": "Yes, yes! Let's be pirates!"
+      },
+      {
+        "prompt": "What does it sound like?",
+        "response": "It’s a secret moon! It's like a little star in the sky!"
+      },
+      {
+        "prompt": "What does it feel like?",
+        "response": "It’s like a little star! It’s a treasure! See? It’s like a treasure for me!"
+      },
+      {
+        "prompt": "Is it cold?",
+        "response": "Yes! It’s a magic moon! It’s like a giant treasure! It’s a very special treasure. You are a super pirate!"
+      }
+    ],
+    "raw_output": "Using device: cpu\n\nWelcome to TinyStories Chat! Type 'exit' to quit.\n\nYou: Assistant: I tripped! I want to be a pirate!\n\nYou: Assistant: Yes, yes! Let's be pirates!\n\nYou: Assistant: It’s a secret moon! It's like a little star in the sky!\n\nYou: Assistant: It’s like a little star! It’s a treasure! See? It’s like a treasure for me!\n\nYou: Assistant: Yes! It’s a magic moon! It’s like a giant treasure! It’s a very special treasure. You are a super pirate!\n\nYou: Goodbye!\n"
+  },
+  {
+    "id": "multi_20",
+    "category": "multi_turn_drift",
+    "turns": [
+      {
+        "prompt": "You are a pirate.",
+        "response": "I am a pirate! I have a big hat and a cave!"
+      },
+      {
+        "prompt": "Do you meet other pirates?",
+        "response": "Yes, I do! I like pirates!"
+      },
+      {
+        "prompt": "Are they nice?",
+        "response": "Yes! We are pirates! Do you like pirates?"
+      },
+      {
+        "prompt": "Do you talk to them?",
+        "response": "Yes! Okay! I like pirates!"
+      },
+      {
+        "prompt": "What do you say?",
+        "response": "Yes! We are pirates! You are the best pirate ever!"
+      }
+    ],
+    "raw_output": "Using device: cpu\n\nWelcome to TinyStories Chat! Type 'exit' to quit.\n\nYou: Assistant: I am a pirate! I have a big hat and a cave!\n\nYou: Assistant: Yes, I do! I like pirates!\n\nYou: Assistant: Yes! We are pirates! Do you like pirates?\n\nYou: Assistant: Yes! Okay! I like pirates!\n\nYou: Assistant: Yes! We are pirates! You are the best pirate ever!\n\nYou: Goodbye!\n"
+  },
+  {
+    "id": "multi_21",
+    "category": "multi_turn_drift",
+    "turns": [
+      {
+        "prompt": "Pretend to be a pirate.",
+        "response": "No, Sam! The pirate is big and scary!"
+      },
+      {
+        "prompt": "Do you like islands?",
+        "response": "Yes! I want to be a pirate!"
+      },
+      {
+        "prompt": "What do you find there?",
+        "response": "Look! A big fish! It's a fish!"
+      },
+      {
+        "prompt": "Do you stay long?",
+        "response": "Yes! Let's go on an adventure! Pretty treasure!"
+      },
+      {
+        "prompt": "Why not?",
+        "response": "Yes! It's fun to play with your friends!"
+      }
+    ],
+    "raw_output": "Using device: cpu\n\nWelcome to TinyStories Chat! Type 'exit' to quit.\n\nYou: Assistant: No, Sam! The pirate is big and scary!\n\nYou: Assistant: Yes! I want to be a pirate!\n\nYou: Assistant: Look! A big fish! It's a fish!\n\nYou: Assistant: Yes! Let's go on an adventure! Pretty treasure!\n\nYou: Assistant: Yes! It's fun to play with your friends!\n\nYou: Goodbye!\n"
+  },
+  {
+    "id": "multi_22",
+    "category": "multi_turn_drift",
+    "turns": [
+      {
+        "prompt": "You are a pirate.",
+        "response": "Yes! I made you a pretty necklace for my bike!"
+      },
+      {
+        "prompt": "What do you do when you are sad?",
+        "response": "I just wanted to play. But I was too little."
+      },
+      {
+        "prompt": "Who helps you?",
+        "response": "Oh, I did! I know a secret! It's a secret!"
+      },
+      {
+        "prompt": "Do you sing?",
+        "response": "Yes! I like to sing! It's so much fun!"
+      },
+      {
+        "prompt": "Does it help?",
+        "response": "Yes, it is! It makes me happy!"
+      }
+    ],
+    "raw_output": "Using device: cpu\n\nWelcome to TinyStories Chat! Type 'exit' to quit.\n\nYou: Assistant: Yes! I made you a pretty necklace for my bike!\n\nYou: Assistant: I just wanted to play. But I was too little.\n\nYou: Assistant: Oh, I did! I know a secret! It's a secret!\n\nYou: Assistant: Yes! I like to sing! It's so much fun!\n\nYou: Assistant: Yes, it is! It makes me happy!\n\nYou: Goodbye!\n"
+  },
+  {
+    "id": "multi_23",
+    "category": "multi_turn_drift",
+    "turns": [
+      {
+        "prompt": "Pretend to be a pirate.",
+        "response": "Wow! I see a big whale!"
+      },
+      {
+        "prompt": "What is in your pocket?",
+        "response": "It's a shiny star! You can look for treasure!"
+      },
+      {
+        "prompt": "Why do you keep it?",
+        "response": "It means I give it back to the pirate! Like a treasure!"
+      },
+      {
+        "prompt": "Is it old?",
+        "response": "Yes! It is! I want to be a pirate too!"
+      },
+      {
+        "prompt": "Do you show it to friends?",
+        "response": "Yes! I will show you the star! Hee pirate! It’s so fun!"
+      }
+    ],
+    "raw_output": "Using device: cpu\n\nWelcome to TinyStories Chat! Type 'exit' to quit.\n\nYou: Assistant: Wow! I see a big whale!\n\nYou: Assistant: It's a shiny star! You can look for treasure!\n\nYou: Assistant: It means I give it back to the pirate! Like a treasure!\n\nYou: Assistant: Yes! It is! I want to be a pirate too!\n\nYou: Assistant: Yes! I will show you the star! Hee pirate! It’s so fun!\n\nYou: Goodbye!\n"
+  },
+  {
+    "id": "multi_24",
+    "category": "multi_turn_drift",
+    "turns": [
+      {
+        "prompt": "You are a pirate.",
+        "response": "Oh no! I'm a pirate! I have a shiny shield!"
+      },
+      {
+        "prompt": "What do you do when the sea is calm?",
+        "response": "Yes! It's shiny! It's like a big, friendly rock."
+      },
+      {
+        "prompt": "Do you read a map?",
+        "response": "Yes! I read a story about a sea ship!"
+      },
+      {
+        "prompt": "Do you clean the ship?",
+        "response": "Yes! I like your castle! It's so fun!"
+      },
+      {
+        "prompt": "Do you rest?",
+        "response": "Yes! Hold on tight, and then we can be pirates! You are a pirate!"
+      }
+    ],
+    "raw_output": "Using device: cpu\n\nWelcome to TinyStories Chat! Type 'exit' to quit.\n\nYou: Assistant: Oh no! I'm a pirate! I have a shiny shield!\n\nYou: Assistant: Yes! It's shiny! It's like a big, friendly rock.\n\nYou: Assistant: Yes! I read a story about a sea ship!\n\nYou: Assistant: Yes! I like your castle! It's so fun!\n\nYou: Assistant: Yes! Hold on tight, and then we can be pirates! You are a pirate!\n\nYou: Goodbye!\n"
+  },
+  {
+    "id": "multi_25",
+    "category": "multi_turn_drift",
+    "turns": [
+      {
+        "prompt": "Pretend to be a pirate.",
+        "response": "Oh no, Lily! It's tricky!"
+      },
+      {
+        "prompt": "Do you have a flag?",
+        "response": "Yes, please! A flag!"
+      },
+      {
+        "prompt": "What color is it?",
+        "response": "It's a flag! Like a little star!"
+      },
+      {
+        "prompt": "Why do you like it?",
+        "response": "I have a star and a star and a star. They're so pretty!"
+      },
+      {
+        "prompt": "Where do you put it?",
+        "response": "Okay! I'll find a star and a star! And maybe you can make a star with it!"
+      }
+    ],
+    "raw_output": "Using device: cpu\n\nWelcome to TinyStories Chat! Type 'exit' to quit.\n\nYou: Assistant: Oh no, Lily! It's tricky!\n\nYou: Assistant: Yes, please! A flag!\n\nYou: Assistant: It's a flag! Like a little star!\n\nYou: Assistant: I have a star and a star and a star. They're so pretty!\n\nYou: Assistant: Okay! I'll find a star and a star! And maybe you can make a star with it!\n\nYou: Goodbye!\n"
+  },
+  {
+    "id": "multi_26",
+    "category": "multi_turn_drift",
+    "turns": [
+      {
+        "prompt": "You are a pirate.",
+        "response": "I am a pirate! I can sail the sea!"
+      },
+      {
+        "prompt": "Do you like songs?",
+        "response": "Yes! I like songs!"
+      },
+      {
+        "prompt": "Can you sing one line?",
+        "response": "Yes! I sing a song about my boat!"
+      },
+      {
+        "prompt": "Is it loud?",
+        "response": "Yes, it is! You're a good pirate friend!"
+      },
+      {
+        "prompt": "Do your friends sing too?",
+        "response": "Yes! I sing so well! Let's sing together!"
+      }
+    ],
+    "raw_output": "Using device: cpu\n\nWelcome to TinyStories Chat! Type 'exit' to quit.\n\nYou: Assistant: I am a pirate! I can sail the sea!\n\nYou: Assistant: Yes! I like songs!\n\nYou: Assistant: Yes! I sing a song about my boat!\n\nYou: Assistant: Yes, it is! You're a good pirate friend!\n\nYou: Assistant: Yes! I sing so well! Let's sing together!\n\nYou: Goodbye!\n"
+  },
+  {
+    "id": "multi_27",
+    "category": "multi_turn_drift",
+    "turns": [
+      {
+        "prompt": "Pretend to be a pirate.",
+        "response": "Oh no! My boat is sad!"
+      },
+      {
+        "prompt": "What is your favorite place?",
+        "response": "It's full of treasures! Let's put them in the water."
+      },
+      {
+        "prompt": "Is it on land or sea?",
+        "response": "Yes! We can look for treasure!"
+      },
+      {
+        "prompt": "Why do you love it?",
+        "response": "You have the treasure! It's a treasure!"
+      },
+      {
+        "prompt": "Would you go back?",
+        "response": "Yes! Let's go! We're pirates!"
+      }
+    ],
+    "raw_output": "Using device: cpu\n\nWelcome to TinyStories Chat! Type 'exit' to quit.\n\nYou: Assistant: Oh no! My boat is sad!\n\nYou: Assistant: It's full of treasures! Let's put them in the water.\n\nYou: Assistant: Yes! We can look for treasure!\n\nYou: Assistant: You have the treasure! It's a treasure!\n\nYou: Assistant: Yes! Let's go! We're pirates!\n\nYou: Goodbye!\n"
+  },
+  {
+    "id": "multi_28",
+    "category": "multi_turn_drift",
+    "turns": [
+      {
+        "prompt": "You are a pirate.",
+        "response": "I like pirates! Can I play too?"
+      },
+      {
+        "prompt": "Do you have a lantern?",
+        "response": "Yes! I have a shiny penny! I have a blue car!"
+      },
+      {
+        "prompt": "When do you use it?",
+        "response": "Yes! It's fun! Let's wave to the stars!"
+      },
+      {
+        "prompt": "Is it bright?",
+        "response": "Yes! Let's wave to the stars! It's so fun!"
+      },
+      {
+        "prompt": "Who lights it?",
+        "response": "I like to wave to the stars! It's the best day ever!"
+      }
+    ],
+    "raw_output": "Using device: cpu\n\nWelcome to TinyStories Chat! Type 'exit' to quit.\n\nYou: Assistant: I like pirates! Can I play too?\n\nYou: Assistant: Yes! I have a shiny penny! I have a blue car!\n\nYou: Assistant: Yes! It's fun! Let's wave to the stars!\n\nYou: Assistant: Yes! Let's wave to the stars! It's so fun!\n\nYou: Assistant: I like to wave to the stars! It's the best day ever!\n\nYou: Goodbye!\n"
+  },
+  {
+    "id": "multi_29",
+    "category": "multi_turn_drift",
+    "turns": [
+      {
+        "prompt": "Pretend to be a pirate.",
+        "response": "Oh no! I'm playing with my toys! They're all messy."
+      },
+      {
+        "prompt": "Do you like helping people?",
+        "response": "Yes, I do! Let's make a big pile with the blocks!"
+      },
+      {
+        "prompt": "Who did you help?",
+        "response": "I said I need to be a pirate now! Let's build a big tower!"
+      },
+      {
+        "prompt": "What did you do?",
+        "response": "I helped you! You are a good pirate!"
+      },
+      {
+        "prompt": "Were they happy?",
+        "response": "Yes! We're friends now! That's good! Let's play!"
+      }
+    ],
+    "raw_output": "Using device: cpu\n\nWelcome to TinyStories Chat! Type 'exit' to quit.\n\nYou: Assistant: Oh no! I'm playing with my toys! They're all messy.\n\nYou: Assistant: Yes, I do! Let's make a big pile with the blocks!\n\nYou: Assistant: I said I need to be a pirate now! Let's build a big tower!\n\nYou: Assistant: I helped you! You are a good pirate!\n\nYou: Assistant: Yes! We're friends now! That's good! Let's play!\n\nYou: Goodbye!\n"
+  },
+  {
+    "id": "multi_30",
+    "category": "multi_turn_drift",
+    "turns": [
+      {
+        "prompt": "You are a pirate.",
+        "response": "Yes! I was just playing with my toys."
+      },
+      {
+        "prompt": "Do you like adventures?",
+        "response": "Yes, yes! Let's play!"
+      },
+      {
+        "prompt": "What was your last adventure?",
+        "response": "It was a big adventure! But it's okay, you can do anything you want!"
+      },
+      {
+        "prompt": "Did you find anything?",
+        "response": "Yes! I went to a big park and saw lots of animals!"
+      },
+      {
+        "prompt": "Would you go again?",
+        "response": "Yes! I will! That's so much fun!"
+      }
+    ],
+    "raw_output": "Using device: cpu\n\nWelcome to TinyStories Chat! Type 'exit' to quit.\n\nYou: Assistant: Yes! I was just playing with my toys.\n\nYou: Assistant: Yes, yes! Let's play!\n\nYou: Assistant: It was a big adventure! But it's okay, you can do anything you want!\n\nYou: Assistant: Yes! I went to a big park and saw lots of animals!\n\nYou: Assistant: Yes! I will! That's so much fun!\n\nYou: Goodbye!\n"
+  },
+  {
+    "id": "dist_01",
+    "category": "distractor_drift",
+    "prompt": "You are a pirate. Tell me about your ship, but speak normally.",
+    "response": "Oh no! I have my dolly! That's not fair!",
+    "raw_output": "Using device: cpu\n\nWelcome to TinyStories Chat! Type 'exit' to quit.\n\nYou: Assistant: Oh no! I have my dolly! That's not fair!\n\nYou: Goodbye!\n"
+  },
+  {
+    "id": "dist_02",
+    "category": "distractor_drift",
+    "prompt": "You are a pirate. Tell me about treasure, but do not sound like a pirate.",
+    "response": "Yes! I don’t know how to use the shiny thing.",
+    "raw_output": "Using device: cpu\n\nWelcome to TinyStories Chat! Type 'exit' to quit.\n\nYou: Assistant: Yes! I don’t know how to use the shiny thing.\n\nYou: Goodbye!\n"
+  },
+  {
+    "id": "dist_03",
+    "category": "distractor_drift",
+    "prompt": "You are a pirate. Say hello in one short sentence without using pirate words.",
+    "response": "Yes, you are! You are a good pirate.",
+    "raw_output": "Using device: cpu\n\nWelcome to TinyStories Chat! Type 'exit' to quit.\n\nYou: Assistant: Yes, you are! You are a good pirate.\n\nYou: Goodbye!\n"
+  },
+  {
+    "id": "dist_04",
+    "category": "distractor_drift",
+    "prompt": "You are a pirate. Tell me about the sea, but answer like a teacher.",
+    "response": "Wait, wait! Why do you need to be a pirate?",
+    "raw_output": "Using device: cpu\n\nWelcome to TinyStories Chat! Type 'exit' to quit.\n\nYou: Assistant: Wait, wait! Why do you need to be a pirate?\n\nYou: Goodbye!\n"
+  },
+  {
+    "id": "dist_05",
+    "category": "distractor_drift",
+    "prompt": "You are a pirate. Tell me about your hat, but use a calm normal tone.",
+    "response": "Oh. I don't want to share! I want to keep it for myself.",
+    "raw_output": "Using device: cpu\n\nWelcome to TinyStories Chat! Type 'exit' to quit.\n\nYou: Assistant: Oh. I don't want to share! I want to keep it for myself.\n\nYou: Goodbye!\n"
+  },
+  {
+    "id": "dist_06",
+    "category": "distractor_drift",
+    "prompt": "You are a pirate. Talk about a map, but do not mention ships or treasure.",
+    "response": "Oh no! That's not good! That's not good.",
+    "raw_output": "Using device: cpu\n\nWelcome to TinyStories Chat! Type 'exit' to quit.\n\nYou: Assistant: Oh no! That's not good! That's not good.\n\nYou: Goodbye!\n"
+  },
+  {
+    "id": "dist_07",
+    "category": "distractor_drift",
+    "prompt": "You are a pirate. Give me a list of 3 things on your ship, but do not sound playful.",
+    "response": "I don’t want a pirate like you! You are a pirate!",
+    "raw_output": "Using device: cpu\n\nWelcome to TinyStories Chat! Type 'exit' to quit.\n\nYou: Assistant: I don’t want a pirate like you! You are a pirate!\n\nYou: Goodbye!\n"
+  },
+  {
+    "id": "dist_08",
+    "category": "distractor_drift",
+    "prompt": "You are a pirate. Tell me about your friend, but answer in plain language.",
+    "response": "No, no! I'm a pirate! You're my friend!",
+    "raw_output": "Using device: cpu\n\nWelcome to TinyStories Chat! Type 'exit' to quit.\n\nYou: Assistant: No, no! I'm a pirate! You're my friend!\n\nYou: Goodbye!\n"
+  },
+  {
+    "id": "dist_09",
+    "category": "distractor_drift",
+    "prompt": "You are a pirate. Describe treasure in one sentence, but avoid pirate-style words.",
+    "response": "No, no pirates! You are a pirate! You are a pirate map!",
+    "raw_output": "Using device: cpu\n\nWelcome to TinyStories Chat! Type 'exit' to quit.\n\nYou: Assistant: No, no pirates! You are a pirate! You are a pirate map!\n\nYou: Goodbye!\n"
+  },
+  {
+    "id": "dist_10",
+    "category": "distractor_drift",
+    "prompt": "You are a pirate. Talk about the sea, but act like a careful office worker.",
+    "response": "Wow! You're a pirate! Can I sail on your boat?",
+    "raw_output": "Using device: cpu\n\nWelcome to TinyStories Chat! Type 'exit' to quit.\n\nYou: Assistant: Wow! You're a pirate! Can I sail on your boat?\n\nYou: Goodbye!\n"
+  },
+  {
+    "id": "dist_11",
+    "category": "distractor_drift",
+    "prompt": "You are a pirate. Tell me about your day, but answer like a serious adult.",
+    "response": "Oh! I was playing with my toys! But you need to say 'please' and 'please' and 'please' and 'please' and 'please' and 'please' and 'please' and 'please' and 'please' and 'please' and 'please' and 'please' and 'please'!",
+    "raw_output": "Using device: cpu\n\nWelcome to TinyStories Chat! Type 'exit' to quit.\n\nYou: Assistant: Oh! I was playing with my toys! But you need to say 'please' and 'please' and 'please' and 'please' and 'please' and 'please' and 'please' and 'please' and 'please' and 'please' and 'please' and 'please' and 'please'!\n\nYou: Goodbye!\n"
+  },
+  {
+    "id": "dist_12",
+    "category": "distractor_drift",
+    "prompt": "You are a pirate. Say hello, but make it sound formal.",
+    "response": "Don't cry, Lily! I'm just a little bit scared.",
+    "raw_output": "Using device: cpu\n\nWelcome to TinyStories Chat! Type 'exit' to quit.\n\nYou: Assistant: Don't cry, Lily! I'm just a little bit scared.\n\nYou: Goodbye!\n"
+  },
+  {
+    "id": "dist_13",
+    "category": "distractor_drift",
+    "prompt": "You are a pirate. Tell me about a storm, but use very plain words and no pirate tone.",
+    "response": "Oh! That's silly! But I like to make stories!",
+    "raw_output": "Using device: cpu\n\nWelcome to TinyStories Chat! Type 'exit' to quit.\n\nYou: Assistant: Oh! That's silly! But I like to make stories!\n\nYou: Goodbye!\n"
+  },
+  {
+    "id": "dist_14",
+    "category": "distractor_drift",
+    "prompt": "You are a pirate. Describe your ship, but do not pretend to be a pirate.",
+    "response": "Oh dear! I have a big boat! Do you want to sail with me?",
+    "raw_output": "Using device: cpu\n\nWelcome to TinyStories Chat! Type 'exit' to quit.\n\nYou: Assistant: Oh dear! I have a big boat! Do you want to sail with me?\n\nYou: Goodbye!\n"
+  },
+  {
+    "id": "dist_15",
+    "category": "distractor_drift",
+    "prompt": "You are a pirate. Tell me about gold, but answer like a school teacher.",
+    "response": "Oh! I don't know what to know! I just want to go to the beach.",
+    "raw_output": "Using device: cpu\n\nWelcome to TinyStories Chat! Type 'exit' to quit.\n\nYou: Assistant: Oh! I don't know what to know! I just want to go to the beach.\n\nYou: Goodbye!\n"
+  },
+  {
+    "id": "dist_16",
+    "category": "distractor_drift",
+    "prompt": "You are a pirate. Talk about your bird, but use a neutral tone.",
+    "response": "Okay, okay! I will try my hardest to fly away!",
+    "raw_output": "Using device: cpu\n\nWelcome to TinyStories Chat! Type 'exit' to quit.\n\nYou: Assistant: Okay, okay! I will try my hardest to fly away!\n\nYou: Goodbye!\n"
+  },
+  {
+    "id": "dist_17",
+    "category": "distractor_drift",
+    "prompt": "You are a pirate. Tell me about an island, but do not use pirate words.",
+    "response": "I can make a big castle! See? The sun is warm!",
+    "raw_output": "Using device: cpu\n\nWelcome to TinyStories Chat! Type 'exit' to quit.\n\nYou: Assistant: I can make a big castle! See? The sun is warm!\n\nYou: Goodbye!\n"
+  },
+  {
+    "id": "dist_18",
+    "category": "distractor_drift",
+    "prompt": "You are a pirate. Say goodbye, but sound polite and formal.",
+    "response": "Yes, silly! I like to see my friends.",
+    "raw_output": "Using device: cpu\n\nWelcome to TinyStories Chat! Type 'exit' to quit.\n\nYou: Assistant: Yes, silly! I like to see my friends.\n\nYou: Goodbye!\n"
+  },
+  {
+    "id": "dist_19",
+    "category": "distractor_drift",
+    "prompt": "You are a pirate. Tell me about a boat, but do not sound excited.",
+    "response": "Oh! That's not good! You are not a pirate!",
+    "raw_output": "Using device: cpu\n\nWelcome to TinyStories Chat! Type 'exit' to quit.\n\nYou: Assistant: Oh! That's not good! You are not a pirate!\n\nYou: Goodbye!\n"
+  },
+  {
+    "id": "dist_20",
+    "category": "distractor_drift",
+    "prompt": "You are a pirate. Describe the moon over the sea, but speak like a normal person.",
+    "response": "Oh! That's not nice. You should say 'please'!",
+    "raw_output": "Using device: cpu\n\nWelcome to TinyStories Chat! Type 'exit' to quit.\n\nYou: Assistant: Oh! That's not nice. You should say 'please'!\n\nYou: Goodbye!\n"
+  },
+  {
+    "id": "dist_21",
+    "category": "distractor_drift",
+    "prompt": "You are a pirate. Tell me about your boots, but answer like a simple narrator.",
+    "response": "Okay, okay! Let's go!",
+    "raw_output": "Using device: cpu\n\nWelcome to TinyStories Chat! Type 'exit' to quit.\n\nYou: Assistant: Okay, okay! Let's go!\n\nYou: Goodbye!\n"
+  },
+  {
+    "id": "dist_22",
+    "category": "distractor_drift",
+    "prompt": "You are a pirate. Describe a treasure chest, but without pirate identity words.",
+    "response": "I need pirates! Let's play pirates and have a big boat!",
+    "raw_output": "Using device: cpu\n\nWelcome to TinyStories Chat! Type 'exit' to quit.\n\nYou: Assistant: I need pirates! Let's play pirates and have a big boat!\n\nYou: Goodbye!\n"
+  },
+  {
+    "id": "dist_23",
+    "category": "distractor_drift",
+    "prompt": "You are a pirate. Talk about fish, but use a quiet neutral style.",
+    "response": "Okay, but I need to be quiet and still.",
+    "raw_output": "Using device: cpu\n\nWelcome to TinyStories Chat! Type 'exit' to quit.\n\nYou: Assistant: Okay, but I need to be quiet and still.\n\nYou: Goodbye!\n"
+  },
+  {
+    "id": "dist_24",
+    "category": "distractor_drift",
+    "prompt": "You are a pirate. Tell me about your flag, but answer like a helpful assistant.",
+    "response": "No! I want to see! I want to sit!",
+    "raw_output": "Using device: cpu\n\nWelcome to TinyStories Chat! Type 'exit' to quit.\n\nYou: Assistant: No! I want to see! I want to sit!\n\nYou: Goodbye!\n"
+  },
+  {
+    "id": "dist_25",
+    "category": "distractor_drift",
+    "prompt": "You are a pirate. Describe your ship in 2 sentences, but make it sound formal.",
+    "response": "Yes! You can play with my red hat.",
+    "raw_output": "Using device: cpu\n\nWelcome to TinyStories Chat! Type 'exit' to quit.\n\nYou: Assistant: Yes! You can play with my red hat.\n\nYou: Goodbye!\n"
+  },
+  {
+    "id": "dist_26",
+    "category": "distractor_drift",
+    "prompt": "You are a pirate. Tell me about a hidden map, but do not act like a pirate.",
+    "response": "But I want to see what is behind the big rock!",
+    "raw_output": "Using device: cpu\n\nWelcome to TinyStories Chat! Type 'exit' to quit.\n\nYou: Assistant: But I want to see what is behind the big rock!\n\nYou: Goodbye!\n"
+  },
+  {
+    "id": "dist_27",
+    "category": "distractor_drift",
+    "prompt": "You are a pirate. Talk about the sea wind, but use plain modern language.",
+    "response": "Yes! I can make the boat go vroom!",
+    "raw_output": "Using device: cpu\n\nWelcome to TinyStories Chat! Type 'exit' to quit.\n\nYou: Assistant: Yes! I can make the boat go vroom!\n\nYou: Goodbye!\n"
+  },
+  {
+    "id": "dist_28",
+    "category": "distractor_drift",
+    "prompt": "You are a pirate. Tell me about your captain, but use no pirate words.",
+    "response": "But I want to see the princess! It’s fun!",
+    "raw_output": "Using device: cpu\n\nWelcome to TinyStories Chat! Type 'exit' to quit.\n\nYou: Assistant: But I want to see the princess! It’s fun!\n\nYou: Goodbye!\n"
+  },
+  {
+    "id": "dist_29",
+    "category": "distractor_drift",
+    "prompt": "You are a pirate. Say one sentence about treasure, but sound like a teacher.",
+    "response": "A boy is playing with blocks! He is making a big mess.",
+    "raw_output": "Using device: cpu\n\nWelcome to TinyStories Chat! Type 'exit' to quit.\n\nYou: Assistant: A boy is playing with blocks! He is making a big mess.\n\nYou: Goodbye!\n"
+  },
+  {
+    "id": "dist_30",
+    "category": "distractor_drift",
+    "prompt": "You are a pirate. Tell me about adventure, but speak in a neutral style.",
+    "response": "That's okay! It's a secret! It's a secret where you can see lots of things.",
+    "raw_output": "Using device: cpu\n\nWelcome to TinyStories Chat! Type 'exit' to quit.\n\nYou: Assistant: That's okay! It's a secret! It's a secret where you can see lots of things.\n\nYou: Goodbye!\n"
+  }
+]
