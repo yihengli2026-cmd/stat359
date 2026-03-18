@@ -260,7 +260,7 @@ Run `python train_pirate_bert.py`.
 
 Purpose: This script trains a binary text classifier on `datasets/combined_pirate_dataset.json`.
 
-Output: 
+Main output: 
 
 Bert Classifier Model:
 - `best_model.pt`
