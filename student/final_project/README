@@ -1,1 +1,20 @@
+# TinyStories Persona Patching (Pirate Style)
+
+Stress tests, cosine similarity scoring, and a BERT style classifier for evaluating pirate-style persona patching on a TinyStories instruction-tuned chat model.
+
+## Overview
+
+This repository contains our final project for an LLM course. We trained a TinyStories instruction-tuned chat model, designed **three prompt stress-test sets**, and then **patched** the model using a targeted pirate-style dataset.
+
+We compare the **baseline** and **patched** models using two evaluation methods:
+
+- **Embedding cosine similarity** to pirate reference texts
+- **BERT classifier** that estimates **P(pirate style | generated text)**
+
+### Main Finding
+
+Patching strongly increases pirate-style scores and also tends to make responses longer. However, scores remain very similar across all three prompt sets, suggesting that the patch mainly shifts the model’s **global style prior** rather than improving **prompt-conditioned instruction following**.
+
+---
+
 
