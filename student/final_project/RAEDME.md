@@ -190,6 +190,21 @@ What this does:
 
 ## Detailed Step-by-Step Reproduction
 
+### Step 1: Train the base model
+
+Follow the instructions in `project_instruction.md` to obtain the baseline base model and baseline chat model. 
+
+### Step 2: Make the pirate patch
+
+Run `python .\scripts\make_pirate_patch.py` 
+
+Output:
+`pirate_patch_6000.jsonl`
+
+### Step 3: Fine tune the pirate chat model
+
+Use the 
+
 ### Step 1: Run the prompt stress tests
 
 Run `python prompt_tests.py`.
