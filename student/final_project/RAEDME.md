@@ -374,13 +374,16 @@ Depending on the script configuration, files may be saved in the project root or
 Replace these placeholders with your actual names and contributions.
 
 - **[Yiheng Li]**: proposed the project topic; designed the stress-test prompts and templates; trained the BERT classifier; analyzed results; wrote the limitations section
-- **[Teammate Name]**: 
+- **[Yu Wang]**: Constructed the pirate-style patch dataset, performed model fine-tuning, and implemented cosine similarity evaluation to measure stylistic alignment.
 
 ---
 
 ## References
 
 - Eldan, R., & Li, Y. (2023). *TinyStories: How Small Can Language Models Be and Still Speak Coherent English?* arXiv:2305.07759.
+- Bochen0909. (n.d.). tinystories-conversations (Hugging Face dataset). Retrieved March 2026, from https://huggingface.co/datasets/bochen0909/tinystories-conversations
+- GPT007. (n.d.). Pirate speak (Hugging Face dataset). Retrieved March 2026, from https://huggingface.co/datasets/GPT007/Pirate%20speak
+- KafeisM. (n.d.). pirate-speak-dataset (Hugging Face dataset). Retrieved March 2026, from https://huggingface.co/datasets/KafeisM/pirate-speak-dataset
 
 ### Datasets
 
