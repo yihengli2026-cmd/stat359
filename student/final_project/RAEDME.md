@@ -155,12 +155,13 @@ There are two common ways to use this repo:
 
 A normal workflow is:
 
-1. Generate outputs with the model
+1. Generate outputs with the baseline model
 2. Score those outputs
-3. Summarize the scores
-4. Plot the results
-5. Patch the model
-6. Re-run the same evaluation and compare baseline vs patched
+3. Summarize and plot the results
+4. Create a pirate patch dataset
+5. Fine-tune the model with the patch
+6. Re-run the same evaluation and compare baseline vs. patched results
+7. Train and evaluate the BERT style classifier
 
 ---
 
@@ -168,11 +169,10 @@ A normal workflow is:
 
 What our scripts do:
 
-- `make_pirate_patch.py`
-- `extract_pirate_refs.py`
-- `analyze_scores.py`
-- `generate_tinystories_text.py`
-- 
+- `make_pirate_patch.py` creates the pirate-style patch dataset used for fine-tuning
+- `extract_pirate_refs.py` builds reference pirate text used for cosine similarity evaluation
+- `analyze_scores.py` summarizes additional style metrics from scored outputs
+- `generate_tinystories_text.py` generates free-form outputs for qualitative inspection
 - `prompt_tests.py` generates model responses for all stress-test prompts
 - `cosine_style_score.py` measures how close those responses are to pirate reference text
 - `analyze_cosine.py` summarizes the cosine results
@@ -263,6 +263,12 @@ Output: `pirate_refs.txt`
   Run
   
   - `python plot_cosine.py --baseline base_cosine.csv --pirate pirate_cosine.csv --out_prefix cosine`
+ 
+Outputs:
+
+- `cosine_bar_clean.png`
+- `cosine_box.png`
+- `cosine_hist.png`
 
 
 ### Step 7: Train the BERT style classifier
