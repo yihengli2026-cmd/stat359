@@ -190,20 +190,68 @@ What this does:
 
 ## Detailed Step-by-Step Reproduction
 
-### Step 1: Train the base model
+### Step 1: Train Base TinyStories Model
 
-Follow the instructions in `project_instruction.md` to obtain the baseline base model and baseline chat model. 
+- `python train_bpe_tokenizer_hf.py`
+- `python train_tinystories_model.py`
+- `python train_tinystories_chat_model.py`
 
-### Step 2: Make the pirate patch
+Output: 
+- `tinystories_model/`
+- `tinystories_chat_model/` 
+- `bpe_tokenizer_tinystories.pkl`
 
-Run `python .\scripts\make_pirate_patch.py` 
+### Step 2: Make the pirate patch and Fine-tune the pirate chat model
+
+- `python .\scripts\make_pirate_patch.py` 
 
 Output:
 `pirate_patch_6000.jsonl`
 
-### Step 3: Fine tune the pirate chat model
+- `python train_tinystories_chat_model.py \
+  --patch_dataset pirate_patch_6000.jsonl \
+  --output_dir tinystories_chat_model_pirate_6000_balanced`
 
-Use the 
+Output: `tinystories_chat_model_pirate_6000_balanced/`
+
+### Step 3: Generate Model Outputs (Evaluation)
+
+- `python prompt_tests.py --model_path tinystories_chat_model/final_model.pth --output_path results_base.json`
+- `python prompt_tests.py --model_path tinystories_chat_model_pirate_6000_balanced/final_model.pth --output_path results_pirate.json`
+  
+Output:
+- `results_base.json`
+- `results_pirate.json`
+
+### Step 4: Build Pirate Reference Texts
+`python extract_pirate_refs.py`
+
+Output: `pirate_refs.txt`
+
+### Step 5: Score Outputs (Style + Cosine)
+- Style Scoring
+  
+  - `python score_results.py --input results_base.json --out_csv base_scored.csv`
+  - `python score_results.py --input results_pirate.json --out_csv pirate_scored.csv`
+
+   Outputs:
+  - `results_base_scored.json`
+
+  - ` results_pirate_scored.json`
+
+- Prepare cosine inputs:
+  - `python -c "import pandas as pd; df=pd.read_csv('base_scored.csv'); df['output']=df['response']; df.to_csv('base_for_cosine.csv', index=False)"`
+  - `python -c "import pandas as pd; df=pd.read_csv('pirate_scored.csv'); df['output']=df['response']; df.to_csv('pirate_for_cosine.csv', index=False)"`
+
+### Step 6: Compute, Analyze, and Plot Cosine Similarity
+- Compute Cosine Similarity
+  - ` python cosine_style_score.py --input_csv base_for_cosine.csv --ref_file pirate_refs.txt --out_csv base_cosine.csv --device cuda`
+  - `python cosine_style_score.py --input_csv pirate_for_cosine.csv --ref_file pirate_refs.txt --out_csv pirate_cosine.csv --device cuda`
+- Analyze Results
+  - `python analyze_scores.py --baseline base_scored.csv --patched pirate_scored.csv`
+  - `python analyze_cosine.py --baseline base_cosine.csv --patched pirate_cosine.csv`
+- Plot results
+  - `python plot_cosine.py --baseline base_cosine.csv --pirate pirate_cosine.csv --out_prefix cosine`
 
 ### Step 1: Run the prompt stress tests
 
