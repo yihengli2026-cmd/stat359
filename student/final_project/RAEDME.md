@@ -61,6 +61,7 @@ Patching strongly increases pirate-style scores and also tends to make responses
   - `plot_bert.py`
   - `make_pirate_patch.py`
   - `extract_pirate_refs.py`
+  - `score_results.py`
   - course-provided training/model scripts
 
 ---
